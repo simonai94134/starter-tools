@@ -29,7 +29,7 @@ git clone https://github.com/simonai94134/starter-tools.git
 
 不是幫你做摘要。摘要看完就忘，這個是要變成你自己的東西。
 
-**怎麼裝**：把 `yt-dlp-mini` 整個資料夾複製到你的 skills 資料夾（Claude Code 是 `~/.claude/skills/`，Codex 是 `.agents/skills/`）。
+**怎麼裝**：把 `yt-dlp-mini` 整個資料夾複製到你的 skills 資料夾（Codex 是工作資料夾裡的 `.agents/skills/`，Claude Code 是 `.claude/skills/`）。
 
 **要先裝 yt-dlp**：看 `setup/` 資料夾。
 
